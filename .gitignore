@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+nftminter/smart-contract/hardhat.config.js
+src/keys.js
